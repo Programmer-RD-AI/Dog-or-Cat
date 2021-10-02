@@ -1,0 +1,245 @@
+2021-10-02 20:30:56,380 INFO    MainThread:44273 [wandb_setup.py:_flush():69] setting env: {}
+2021-10-02 20:30:56,380 INFO    MainThread:44273 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-10-02 20:30:56,380 INFO    MainThread:44273 [wandb_init.py:_log_setup():342] Logging user logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/CNN/Dog-or-Cat/wandb/run-20211002_203056-optiejmm/logs/debug.log
+2021-10-02 20:30:56,380 INFO    MainThread:44273 [wandb_init.py:_log_setup():343] Logging internal logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/CNN/Dog-or-Cat/wandb/run-20211002_203056-optiejmm/logs/debug-internal.log
+2021-10-02 20:30:56,381 INFO    MainThread:44273 [wandb_init.py:init():375] calling init triggers
+2021-10-02 20:30:56,381 INFO    MainThread:44273 [wandb_init.py:init():382] wandb.init called with sweep_config: {}
+config: {}
+2021-10-02 20:30:56,381 INFO    MainThread:44273 [wandb_init.py:init():397] re-initializing run, found existing run on stack: 3utj2r5z
+2021-10-02 20:30:56,382 INFO    MainThread:44273 [wandb_run.py:finish():1271] finishing run ranuga-d/dog-or-cat/3utj2r5z
+2021-10-02 20:30:56,385 INFO    MainThread:44273 [jupyter.py:save_history():382] saving 16 cells to _session_history.ipynb
+2021-10-02 20:30:56,390 INFO    MainThread:44273 [wandb_run.py:_config_callback():843] config_cb ('_wandb', 'session_history') code/_session_history.ipynb None
+2021-10-02 20:30:56,403 INFO    MainThread:44273 [jupyter.py:save_ipynb():301] looking for notebook: 00.ipynb
+2021-10-02 20:30:56,888 INFO    MainThread:44273 [wandb_init.py:_jupyter_teardown():274] saved code and history
+2021-10-02 20:30:56,888 INFO    MainThread:44273 [wandb_init.py:_jupyter_teardown():275] cleaning up jupyter logic
+2021-10-02 20:30:56,888 INFO    MainThread:44273 [wandb_run.py:_atexit_cleanup():1571] got exitcode: 0
+2021-10-02 20:30:56,889 INFO    MainThread:44273 [wandb_run.py:_restore():1543] restore
+2021-10-02 20:31:02,717 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: None
+2021-10-02 20:31:06,190 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 1
+  artifact_count: 3
+}
+pusher_stats {
+  uploaded_bytes: 58775
+  total_bytes: 58775
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:06,776 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 1
+  artifact_count: 3
+}
+pusher_stats {
+  uploaded_bytes: 58775
+  total_bytes: 58775
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:07,097 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+  artifact_count: 3
+}
+pusher_stats {
+  uploaded_bytes: 58775
+  total_bytes: 82217
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:07,200 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 58775
+  total_bytes: 96458
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:07,302 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 58775
+  total_bytes: 96458
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:07,404 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 58775
+  total_bytes: 96458
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:07,506 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 58775
+  total_bytes: 96458
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:07,607 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 58775
+  total_bytes: 96458
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:07,709 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 58775
+  total_bytes: 96458
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:07,811 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 73097
+  total_bytes: 96458
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:07,913 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 96458
+  total_bytes: 96458
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:08,016 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 96458
+  total_bytes: 96458
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:08,117 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 96458
+  total_bytes: 96458
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:08,219 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 96458
+  total_bytes: 96458
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:08,321 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 96458
+  total_bytes: 96458
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:08,423 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 96458
+  total_bytes: 96458
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:08,524 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 96458
+  total_bytes: 96458
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:09,362 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: file_counts {
+  wandb_count: 6
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 96458
+  total_bytes: 96458
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:09,464 INFO    MainThread:44273 [wandb_run.py:_wait_for_finish():1693] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+  artifact_count: 3
+  other_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 96458
+  total_bytes: 96458
+  deduped_bytes: 25384
+}
+
+2021-10-02 20:31:10,562 INFO    MainThread:44273 [wandb_run.py:_show_files():1915] logging synced files
+2021-10-02 20:31:10,568 INFO    MainThread:44273 [wandb_init.py:init():424] starting backend
+2021-10-02 20:31:10,568 INFO    MainThread:44273 [backend.py:_multiprocessing_setup():72] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2021-10-02 20:31:10,571 INFO    MainThread:44273 [backend.py:ensure_launched():135] starting backend process...
+2021-10-02 20:31:10,593 INFO    MainThread:44273 [backend.py:ensure_launched():140] started backend process with pid: 51917
+2021-10-02 20:31:10,594 INFO    MainThread:44273 [wandb_init.py:init():429] backend started and connected
+2021-10-02 20:31:10,605 INFO    MainThread:44273 [wandb_run.py:_label_probe_notebook():815] probe notebook
+2021-10-02 20:31:10,605 INFO    MainThread:44273 [wandb_init.py:init():477] updated telemetry
+2021-10-02 20:31:10,606 INFO    MainThread:44273 [wandb_init.py:init():500] communicating current version
+2021-10-02 20:31:11,455 INFO    MainThread:44273 [wandb_init.py:init():505] got version response upgrade_message: "wandb version 0.12.3 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2021-10-02 20:31:11,456 INFO    MainThread:44273 [wandb_init.py:init():513] communicating run to backend with 30 second timeout
+2021-10-02 20:31:11,986 INFO    MainThread:44273 [wandb_init.py:init():540] starting run threads in backend
+2021-10-02 20:31:16,991 INFO    MainThread:44273 [wandb_run.py:_console_start():1601] atexit reg
+2021-10-02 20:31:16,992 INFO    MainThread:44273 [wandb_run.py:_redirect():1475] redirect: SettingsConsole.WRAP
+2021-10-02 20:31:16,992 INFO    MainThread:44273 [wandb_run.py:_redirect():1512] Wrapping output streams.
+2021-10-02 20:31:16,992 INFO    MainThread:44273 [wandb_run.py:_redirect():1536] Redirects installed.
+2021-10-02 20:31:16,993 INFO    MainThread:44273 [wandb_init.py:init():565] run started, returning control to user process
+2021-10-02 20:32:24,682 INFO    MainThread:44273 [wandb_run.py:finish():1271] finishing run ranuga-d/dog-or-cat/optiejmm

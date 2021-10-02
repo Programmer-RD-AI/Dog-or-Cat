@@ -1,0 +1,42 @@
+2021-10-02 20:22:15,809 INFO    MainThread:44273 [wandb_setup.py:_flush():69] setting env: {}
+2021-10-02 20:22:15,809 INFO    MainThread:44273 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-10-02 20:22:15,809 INFO    MainThread:44273 [wandb_init.py:_log_setup():342] Logging user logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/CNN/Dog-or-Cat/wandb/run-20211002_202215-hp22aawc/logs/debug.log
+2021-10-02 20:22:15,809 INFO    MainThread:44273 [wandb_init.py:_log_setup():343] Logging internal logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/CNN/Dog-or-Cat/wandb/run-20211002_202215-hp22aawc/logs/debug-internal.log
+2021-10-02 20:22:15,810 INFO    MainThread:44273 [wandb_init.py:_jupyter_setup():294] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f9c1c2720d0>
+2021-10-02 20:22:15,810 INFO    MainThread:44273 [wandb_init.py:init():375] calling init triggers
+2021-10-02 20:22:15,810 INFO    MainThread:44273 [wandb_init.py:init():382] wandb.init called with sweep_config: {}
+config: {}
+2021-10-02 20:22:15,810 INFO    MainThread:44273 [wandb_init.py:init():424] starting backend
+2021-10-02 20:22:15,810 INFO    MainThread:44273 [backend.py:_multiprocessing_setup():72] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2021-10-02 20:22:15,838 INFO    MainThread:44273 [backend.py:ensure_launched():135] starting backend process...
+2021-10-02 20:22:15,863 INFO    MainThread:44273 [backend.py:ensure_launched():140] started backend process with pid: 45349
+2021-10-02 20:22:15,864 INFO    MainThread:44273 [wandb_init.py:init():429] backend started and connected
+2021-10-02 20:22:15,910 INFO    MainThread:44273 [wandb_run.py:_label_probe_notebook():815] probe notebook
+2021-10-02 20:22:15,911 INFO    MainThread:44273 [wandb_init.py:init():477] updated telemetry
+2021-10-02 20:22:15,911 INFO    MainThread:44273 [wandb_init.py:init():500] communicating current version
+2021-10-02 20:22:16,790 INFO    MainThread:44273 [wandb_init.py:init():505] got version response upgrade_message: "wandb version 0.12.3 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2021-10-02 20:22:16,791 INFO    MainThread:44273 [wandb_init.py:init():513] communicating run to backend with 30 second timeout
+2021-10-02 20:22:17,377 INFO    MainThread:44273 [wandb_init.py:init():540] starting run threads in backend
+2021-10-02 20:22:22,385 INFO    MainThread:44273 [wandb_run.py:_console_start():1601] atexit reg
+2021-10-02 20:22:22,386 INFO    MainThread:44273 [wandb_run.py:_redirect():1475] redirect: SettingsConsole.WRAP
+2021-10-02 20:22:22,386 INFO    MainThread:44273 [wandb_run.py:_redirect():1512] Wrapping output streams.
+2021-10-02 20:22:22,387 INFO    MainThread:44273 [wandb_run.py:_redirect():1536] Redirects installed.
+2021-10-02 20:22:22,387 INFO    MainThread:44273 [wandb_init.py:init():565] run started, returning control to user process
+2021-10-02 20:22:22,643 INFO    MainThread:44273 [wandb_init.py:_pause_backend():256] pausing backend
+2021-10-02 20:22:22,644 INFO    MainThread:44273 [jupyter.py:save_ipynb():301] looking for notebook: 00.ipynb
+2021-10-02 20:22:23,111 INFO    MainThread:44273 [wandb_init.py:_pause_backend():260] saved code: <wandb.sdk.wandb_artifacts.Artifact object at 0x7f9c1c268690>
+2021-10-02 20:22:29,164 INFO    MainThread:44273 [wandb_init.py:_resume_backend():265] resuming backend
+2021-10-02 20:22:29,278 INFO    MainThread:44273 [wandb_init.py:_pause_backend():256] pausing backend
+2021-10-02 20:22:29,278 INFO    MainThread:44273 [jupyter.py:save_ipynb():301] looking for notebook: 00.ipynb
+2021-10-02 20:22:29,761 INFO    MainThread:44273 [wandb_init.py:_pause_backend():260] saved code: <wandb.sdk.wandb_artifacts.Artifact object at 0x7f9c2c5b21d0>
+2021-10-02 20:22:29,767 INFO    MainThread:44273 [wandb_init.py:_resume_backend():265] resuming backend
+2021-10-02 20:22:29,779 INFO    MainThread:44273 [wandb_setup.py:_flush():69] setting env: {}
+2021-10-02 20:22:29,779 INFO    MainThread:44273 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-10-02 20:22:29,780 INFO    MainThread:44273 [wandb_init.py:_log_setup():342] Logging user logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/CNN/Dog-or-Cat/wandb/run-20211002_202229-3pfj3uup/logs/debug.log
+2021-10-02 20:22:29,780 INFO    MainThread:44273 [wandb_init.py:_log_setup():343] Logging internal logs to /home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/CNN/Dog-or-Cat/wandb/run-20211002_202229-3pfj3uup/logs/debug-internal.log
+2021-10-02 20:22:29,780 INFO    MainThread:44273 [wandb_init.py:init():375] calling init triggers
+2021-10-02 20:22:29,780 INFO    MainThread:44273 [wandb_init.py:init():382] wandb.init called with sweep_config: {}
+config: {}
+2021-10-02 20:22:29,780 INFO    MainThread:44273 [wandb_init.py:init():397] re-initializing run, found existing run on stack: hp22aawc
+2021-10-02 20:22:29,781 INFO    MainThread:44273 [wandb_run.py:finish():1271] finishing run ranuga-d/dog-or-cat/hp22aawc
